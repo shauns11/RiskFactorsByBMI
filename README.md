@@ -1,7 +1,7 @@
 Trends in cardiovascular disease risk factors by body mass index category among adults in England 2003-18
-Shaun Scholes<sup>1</sup>, Linda Ng Fat1 , Jennifer S Mindell1
+Shaun Scholes<sup>1</sup>, Linda Ng Fat<sup>1</sup>, Jennifer S Mindell</sup>1</sup>
 
-1 Department of Epidemiology and Public Health, University College London, 1-19 Torrington Place, London, WC1E 6BT, United Kingdom. 
+<sup>1</sup> Department of Epidemiology and Public Health, University College London, 1-19 Torrington Place, London, WC1E 6BT, United Kingdom. 
 
 Abstract
 Objective. Estimate trends in cardiovascular disease risk factors by body mass index (BMI) category among adults in England (n=115,860).
