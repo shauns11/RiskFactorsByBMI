@@ -1,6 +1,8 @@
 # **Trends in cardiovascular disease risk factors by body mass index category among adults in England 2003-18**
 Shaun Scholes<sup>1</sup>, Linda Ng Fat<sup>1</sup>, Jennifer S Mindell<sup>1</sup> 
 
+*Obesity (Silver Spring)*. 2021;29:1347–1362.     
+
 <sup>1</sup> Department of Epidemiology and Public Health, University College London, 1-19 Torrington Place, London, WC1E 6BT, United Kingdom. 
 
 ## **Abstract**
